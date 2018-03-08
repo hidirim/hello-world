@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+best wishes for developers and recruits
